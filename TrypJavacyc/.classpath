@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/home/leo/Downloads/javacyc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/parseBioNet"/>
+	<classpathentry kind="src" path="/javaCyc"/>
+	<classpathentry kind="var" path="LD_LIBRARY_PATH"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
